@@ -34,7 +34,7 @@
                 <v-list>
                     <v-list-item>
                         <v-list-item-action>
-                            <v-icon>midi-movie</v-icon>
+                            <v-icon>mdi-movie</v-icon>
                         </v-list-item-action>
 
                         <v-list-item-content>
